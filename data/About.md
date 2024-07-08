@@ -1,7 +1,7 @@
 #About Dataset
 Let us breakdown each column in our dataset:
 
-sex: This column represents the gender of the individuals (female- male).
+sex: This column represents the gender of the individuals (female (0) - male (1)).
 
 age: This column represents the age of the individuals in the dataset. Age is a crucial factor in assessing the risk of coronary heart disease.
 
