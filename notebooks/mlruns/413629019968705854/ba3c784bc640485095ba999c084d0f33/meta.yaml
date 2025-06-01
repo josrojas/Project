@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jose/Documents/Jos/Cursos/Azure/Project/notebooks/mlruns/413629019968705854/ba3c784bc640485095ba999c084d0f33/artifacts
+end_time: 1748294738404
+entry_point_name: ''
+experiment_id: '413629019968705854'
+lifecycle_stage: active
+run_id: ba3c784bc640485095ba999c084d0f33
+run_name: lyrical-doe-396
+run_uuid: ba3c784bc640485095ba999c084d0f33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748294737966
+status: 4
+tags: []
+user_id: Jose

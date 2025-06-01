@@ -1,13 +1,13 @@
-#About Dataset
+# About Dataset
 Let us breakdown each column in our dataset:
 
-sex: This column represents the gender of the individuals (female (0) - male (1)).
+sex: This column represents the gender of the individuals (binary: 0 for female - 1 for male).
 
 age: This column represents the age of the individuals in the dataset. Age is a crucial factor in assessing the risk of coronary heart disease.
 
 education: This column represents the level of education of the individuals. It could be coded using categorical values indicating different levels of education attainment.
 
-smokingStatus: This column likely represents the smoking status of the individuals, indicating whether they are smokers(yes), non-smokers(no).
+smokingStatus: This column likely represents the smoking status of the individuals, indicating whether they are smokers (1), non-smokers(0).
 
 cigsPerDay: If an individual is a smoker, this column represents the number of cigarettes smoked per day.
 

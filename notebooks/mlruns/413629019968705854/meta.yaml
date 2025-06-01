@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/Jose/Documents/Jos/Cursos/Azure/Project/notebooks/mlruns/413629019968705854
+creation_time: 1748294733760
+experiment_id: '413629019968705854'
+last_update_time: 1748294733760
+lifecycle_stage: active
+name: mlflow-experiment-heart-disease

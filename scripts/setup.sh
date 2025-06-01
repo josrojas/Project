@@ -6,7 +6,7 @@ suffix=${guid//[-]/}
 suffix=${suffix:0:18}
 
 # Set the necessary variables
-RESOURCE_GROUP="rg-heart-diagnose-l${suffix}"
+RESOURCE_GROUP="rg-heart-diagnose${suffix}"
 RESOURCE_PROVIDER="Microsoft.MachineLearning"
 REGION=("eastus")
 WORKSPACE_NAME="mlw-heart-dg${suffix}"

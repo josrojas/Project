@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jose/Documents/Jos/Cursos/Azure/Project/notebooks/mlruns/413629019968705854/90d394feb1ac4c369bf6aab8f07f3c57/artifacts
+end_time: 1748294853660
+entry_point_name: ''
+experiment_id: '413629019968705854'
+lifecycle_stage: active
+run_id: 90d394feb1ac4c369bf6aab8f07f3c57
+run_name: bustling-snail-140
+run_uuid: 90d394feb1ac4c369bf6aab8f07f3c57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748294847892
+status: 3
+tags: []
+user_id: Jose

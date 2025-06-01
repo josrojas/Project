@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jose/Documents/Jos/Cursos/Azure/Project/notebooks/mlruns/413629019968705854/53d1b0d82b3848bab5ebd07763990a92/artifacts
+end_time: 1748294876670
+entry_point_name: ''
+experiment_id: '413629019968705854'
+lifecycle_stage: active
+run_id: 53d1b0d82b3848bab5ebd07763990a92
+run_name: unleashed-rat-43
+run_uuid: 53d1b0d82b3848bab5ebd07763990a92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748294876606
+status: 3
+tags: []
+user_id: Jose

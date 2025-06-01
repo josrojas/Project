@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jose/Documents/Jos/Cursos/Azure/Project/notebooks/mlruns/413629019968705854/176ca09275384d44ad61399db8397e8f/artifacts
+end_time: 1748294880270
+entry_point_name: ''
+experiment_id: '413629019968705854'
+lifecycle_stage: active
+run_id: 176ca09275384d44ad61399db8397e8f
+run_name: smiling-sloth-305
+run_uuid: 176ca09275384d44ad61399db8397e8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748294880214
+status: 3
+tags: []
+user_id: Jose
